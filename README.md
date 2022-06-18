@@ -15,4 +15,4 @@ Sendo: <br>
 `X` a quantidade de linhas da matriz; <br>
 `Y` a quantidade de colunas da matriz. <br>
 
-Contendo `X*Y`elementos separados em `X` linhas e `Y` colunas por um espaço. <br>
+Contendo `X*Y` elementos separados em `X` linhas e `Y` colunas por um espaço. <br>
