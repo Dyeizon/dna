@@ -12,7 +12,7 @@ d e f <br>
 g h i <br>
 
 Sendo: <br>
-`X` a quantidade de linhas da matriz; <br>
-`Y` a quantidade de colunas da matriz. <br>
+`X (int)` a quantidade de linhas da matriz; <br>
+`Y (int)` a quantidade de colunas da matriz. <br>
 
-Contendo `X*Y` elementos separados em `X` linhas e `Y` colunas por um espaço. <br>
+Contendo `X*Y` elementos do tipo `char` separados em `X` linhas e `Y` colunas por um espaço. <br>
