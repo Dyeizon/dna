@@ -14,6 +14,7 @@ A G A C G G G<br>
 C A C C C A T<br>
 T C A C T G C<br>
 A A G A A G A<br>
+<br>
 Sendo: <br>
 `X (int)` a quantidade de linhas e colunas da matriz <br>
 E as próximas X linhas seguintes contendo a matriz quadrada a ser analisada, sendo cada elemento do tipo `char` e separados por um espaço entre cada elemento, e uma quebra de linha entre cada linha. <br>
