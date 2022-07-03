@@ -1,5 +1,6 @@
 # Símios
-Trabalho final da disciplina de Algoritmos I
+Trabalho final da disciplina de Algoritmos<br>
+Aluno: Dyeizon Procopiuk da Silva<br>
 
 ## Instruções de uso
 
