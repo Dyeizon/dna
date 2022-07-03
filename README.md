@@ -1,6 +1,6 @@
 # Símios
 Trabalho final da disciplina de Algoritmos<br>
-Aluno: Dyeizon Procopiuk da Silva<br>
+<b>Aluno</b>: Dyeizon Procopiuk da Silva<br>
 
 ## Instruções de uso
 
